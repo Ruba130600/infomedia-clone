@@ -24,7 +24,7 @@
     object-fit: cover;
     background-position: center;
 }
-  .container p h1 .btn1{
+  .container1 p h1 .btn1{
     text-align: center;
  
   }
@@ -426,13 +426,13 @@ ul{
 }
   .navbar{
       text-align: right;
-      background-color: rgb(255, 255, 255);
+  
       
     }
     .bg-video {
        width: 100%;
        height: 100%;
-        background-position: center;
+       background-position: center;
        
         
     }
@@ -445,10 +445,11 @@ ul{
   }
 
 .container1{
-  margin-top: 20%;
-  bottom: 0;
-  z-index: -1;
+  margin-top: 50%;
+  height: 100%;
+  width: 100%;
   background-size: cover;
+  margin-top: 420px;
 } 
 
   .middle .content .body1{
